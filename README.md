@@ -3,7 +3,7 @@ Screenshots:
 
 <img src="AMP2.png">
 
-
+<img src="rubber.png">
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -53,5 +53,3 @@ npm install
 npm start
 
 
-```bash
-<img src="rubber.png">
