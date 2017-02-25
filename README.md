@@ -51,3 +51,5 @@ npm install
 
 # Then simply start your app
 npm start
+
+<img src="rubber.png">
