@@ -43,30 +43,14 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/ElishaKay/Social-Site-with-6-Authentications.git
+git clone https://github.com/ElishaKay/Angular-2-Spotify-App.git
 
 # Change directory
-cd myproject
+cd into the project
 
 # Install NPM dependencies
 npm install
 
-# Or, if you prefer to use `yarn` instead of `npm`
-yarn install
-
 # Then simply start your app
-node app.js 
-
-or:
-
-nodemon app.js
-
-```
-
-**Note:** I highly recommend installing [Nodemon](https://github.com/remy/nodemon).
-It watches for any changes in your  node.js app and automatically restarts the
-server. Once installed, instead of `node app.js` use `nodemon app.js`. It will
-save you a lot of time in the long run, because you won't need to manually
-restart the server each time you make a small change in code. To install, run
-`sudo npm install -g nodemon`.
+npm start
 
